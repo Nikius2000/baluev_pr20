@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375263038389",
+    "project_id": "baluev-pr20",
+    "storage_bucket": "baluev-pr20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375263038389:android:fae57f4c96348b402a27fc",
+        "android_client_info": {
+          "package_name": "com.example.baluev_pr20new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALpRKhyIc2SqvT1a13xxksqu6Nu34xPTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
